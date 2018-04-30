@@ -1,4 +1,4 @@
-# PoC command injection in BLE service of Norton Core Secure WiFi Router
+# PoC command injection in BLE service of Norton Core Secure WiFi Router (CVE-2018-5234)
 
 To demonstrate the exploitation, we will use:
 - OS GNU/Linux;
