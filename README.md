@@ -1,5 +1,8 @@
 # PoC command injection in BLE service of Norton Core Secure WiFi Router (CVE-2018-5234)
 
+For more information read
+[paper](https://embedi.com/blog/whos-watching-the-watchers-vol-ii-norton-core-secure-wifi-router).
+
 To demonstrate the exploitation, we will use:
 - OS GNU/Linux;
 - Bluetooth dongle adapter;
