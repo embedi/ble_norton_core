@@ -7,7 +7,7 @@ Low Energy (BLE).
 Also this module is main.
 
 Example of run:
-    $ ./ble.py reboot
+    $ ./ble_norton_core.py reboot
 
 """
 
